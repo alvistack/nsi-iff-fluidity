@@ -1,0 +1,5 @@
+python-fluidity-sm source: file-without-copyright-information
+python-fluidity-sm source: no-debian-changes
+python-fluidity-sm source: source-contains-prebuilt-windows-binary
+python-fluidity-sm source: source-is-missing
+python-fluidity-sm source: source-package-encodes-python-version
